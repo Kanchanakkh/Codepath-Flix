@@ -67,9 +67,18 @@
             BlueprintIdentifier = "0618FC4224D297C00019A6DD"
             BuildableName = "flixster.app"
             BlueprintName = "flixster"
-            ReferencedContainer = "container:flixster.xcodeproj">
+            ReferencedContainer = "container:../../flixster/flixster.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0618FC4224D297C00019A6DD"
+            BuildableName = "flixster.app"
+            BlueprintName = "flixster"
+            ReferencedContainer = "container:flixster.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
